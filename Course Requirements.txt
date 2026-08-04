@@ -1,0 +1,5 @@
+Required Software:
+ - Chrome (FREE)
+ - Postman (FREE)
+ - Sublime Text (FREE)
+ - Fiddler Classic (Free)
