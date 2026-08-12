@@ -1,0 +1,6 @@
+I just wanted to take a moment to let you know of some behavior that you may experience as a result of installing and running Fiddler on your machine.
+
+1. After you reboot your computer you may notice that you don't get internet traffic when opening a browser. Since Fiddler is acting as a proxy this can happen from time to time. To resolve this simply open up Fiddler. You can close it if you don't want it running.
+
+2. Some web sites may not work correctly based on how they were implemented when you have Fiddler running. To solve this you have to turn off Fiddler. This case is very rare and should not affect your typical day to day scenarios.
+
